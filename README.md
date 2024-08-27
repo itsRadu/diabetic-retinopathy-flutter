@@ -28,7 +28,7 @@ Diabetic retinopathy is a serious eye condition caused by diabetes that can lead
 
 The dataset used for this project is from [Kaggle](https://www.kaggle.com/datasets/sovitrath/diabetic-retinopathy-224x224-2019-data) and contains retina images categorized by the severity of diabetic retinopathy. The images are resized to 224x224 pixels for training and testing.
 
-- **Number of Images**: [Total Image Count]
+- **Number of Images**: 3662
 - **Categories**: No DR, Mild, Moderate, Severe, Proliferative DR
 
 ## Installation
@@ -65,7 +65,7 @@ To run the Flutter application:
 1. Connect your device or start an emulator.
 2. Use the following command:
    ```bash
-     flutter run
+   flutter run
 The app allows users to upload retina images and get a prediction regarding the severity of diabetic retinopathy.
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. You can also open an issue if you encounter any bugs or have feature suggestions.
