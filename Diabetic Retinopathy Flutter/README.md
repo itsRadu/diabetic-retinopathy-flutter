@@ -90,10 +90,3 @@ You can replace your model in the `assets/` directory with default model.
 3. **Web Deployment**:
    You can host the web build on any static server like GitHub Pages or Firebase Hosting.
 
-## Contributing
-
-Contributions are welcome! Please fork the repository, create a feature branch, and submit a pull request. For major changes, please open an issue to discuss the proposed changes beforehand.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
