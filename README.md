@@ -53,14 +53,14 @@ The model is trained using a Jupyter notebook (DRD.ipynb) available in this repo
 - Building a CNN model using TensorFlow/Keras.
 - Training and validation on the provided dataset.
 - Saving the model as .h5 and converting it to .tflite for integration into the Flutter app.
-Or use [Google Colab](https://colab.research.google.com/drive/1rSKSbm6Qe4A5JmH6I27pZ1FHTglkYplK?usp=sharing)
 
 To train the model:
 
 1. Open the DRD.ipynb notebook.
 2. Follow the steps for data loading, model building, and training.
 3. Once trained, the model is saved as dr_model.h5 and dr_model.tflite.
-
+   
+Or use [Google Colab](https://colab.research.google.com/drive/1rSKSbm6Qe4A5JmH6I27pZ1FHTglkYplK?usp=sharing)
 ## Usage
 To run the Flutter application:
 1. Connect your device or start an emulator.
