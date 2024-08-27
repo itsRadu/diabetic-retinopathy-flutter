@@ -71,5 +71,5 @@ The app allows users to upload retina images and get a prediction regarding the 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. You can also open an issue if you encounter any bugs or have feature suggestions.
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
