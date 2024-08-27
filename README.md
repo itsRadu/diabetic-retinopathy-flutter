@@ -45,7 +45,7 @@ The dataset used for this project is from [Kaggle](https://www.kaggle.com/datase
    flutter doctor
 4. Download the dataset from Kaggle and place it in the project directory.
    
-##Model Training
+## Model Training
 
 The model is trained using a Jupyter notebook (DRD.ipynb) available in this repository. The training process involves:
 
@@ -56,15 +56,19 @@ The model is trained using a Jupyter notebook (DRD.ipynb) available in this repo
   
 To train the model:
 
-- Open the DRD.ipynb notebook.
-- Follow the steps for data loading, model building, and training.
-- Once trained, the model is saved as dr_model.h5 and dr_model.tflite.
-- 
-##Usage
-To run the Flutter application:
+1. Open the DRD.ipynb notebook.
+2. Follow the steps for data loading, model building, and training.
+3. Once trained, the model is saved as dr_model.h5 and dr_model.tflite.
 
-Connect your device or start an emulator.
-Use the following command:
-```bash
-  flutter run
+## Usage
+To run the Flutter application:
+1. Connect your device or start an emulator.
+2. Use the following command:
+   ```bash
+     flutter run
+The app allows users to upload retina images and get a prediction regarding the severity of diabetic retinopathy.
+## Contributing
+Contributions are welcome! Please fork the repository and submit a pull request with your changes. You can also open an issue if you encounter any bugs or have feature suggestions.
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
 
