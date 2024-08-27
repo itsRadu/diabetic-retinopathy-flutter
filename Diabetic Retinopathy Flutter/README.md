@@ -25,6 +25,7 @@ The repository structure is as follows:
 diabetic-retinopathy-flutter/
 ├── android/               # Android-specific code
 ├── assets/                # Images and other assets
+│   └── dr_model.tflite    # model
 ├── ios/                   # iOS-specific code
 ├── lib/                   # Main Flutter application code (Dart files)
 │   └── main.dart          # Entry point of the Flutter application
@@ -70,6 +71,8 @@ The project uses TensorFlow Lite for model inference. The pre-trained model file
   - `dr_model.tflite` - TensorFlow Lite model for mobile and embedded deployment.
 
 The integration code is located in the `lib/` directory, where Flutter handles loading the model and processing image inputs.
+
+You can replace your model in the `assets/` directory with default model.
 
 ## Running the Application
 
